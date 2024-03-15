@@ -1,0 +1,13 @@
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+.home-body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/images/dentalLandingPage.jpg);
+    background-size: cover;
+    /* background-position: center;  */
+    background-repeat: no-repeat;
+}
